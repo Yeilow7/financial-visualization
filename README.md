@@ -19,5 +19,5 @@
 
 ## Visit the application here 
 
-https://github.com/yeilow7/financial-visualization.git
+https://yeilow7.github.io/financial-visualization/
 
