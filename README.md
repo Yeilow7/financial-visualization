@@ -1,5 +1,7 @@
 # Financial Visualization
 
+![Financial Visualization Preview](financial-view.png)
+
 **Financial Visualization** is a web application that allows users to view real-time information on stock market indices, cryptocurrencies, and popular stocks. The application leverages the Finnhub and Yahoo Finance APIs to provide up-to-date financial data.
 
 ## Features
